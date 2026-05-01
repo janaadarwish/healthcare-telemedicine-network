@@ -29,11 +29,11 @@ dynamic IP assignment, and inter-site connectivity for healthcare staff and doct
 - Cisco Packet Tracer
 - Cisco 2911 Routers
 - Cisco 2960-24TT Switches
+---
 
 ## The Development Team
 
 | Name | GitHub Profile |
 | :--- | :--- |
-## Abdulrahman mahmoud** | [@alwakeeeel](https://github.com/alwakeeeel) 
-## Jana Amin** | [@janaadarwish](https://github.com/janaadarwish)
----
+| **Abdulrahman mahmoud** | [@alwakeeeel](https://github.com/alwakeeeel) |
+| **Jana Amin** | [@janaadarwish](https://github.com/janaadarwish) |
